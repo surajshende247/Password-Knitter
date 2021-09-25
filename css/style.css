@@ -1,0 +1,12 @@
+.bg-nav {
+  background-color: #ffc933;
+}
+
+@font-face {
+  font-family: AbelRegular;
+  src: url(/fonts/Abel-Regular.ttf);
+}
+
+h1 {
+  font-family: AbelRegular;
+}
