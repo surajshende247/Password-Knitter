@@ -4,6 +4,10 @@
 
 Click [here](https://password-knitter-topmk.ondigitalocean.app/) to view the live demo.
 
+<p align="center">
+  <img src="https://github.com/surajshende247/Password-Knitter/blob/master/screenshots/screenshot1.png" width="80%" title="Password Knitter">
+</p>
+
 
 ## Usage
 
