@@ -55,11 +55,11 @@
             <div class="row">
                 <div class="col-md-6 mx-auto">
                   <label for="pass" class="visually-hidden">Password</label>
-                  <input type="text" class="form-control form-control-lg" id="pass" placeholder="Password">
+                  <input type="text" class="form-control form-control-lg" id="pass" placeholder="Password" readonly>
                 </div>
                 <div class="col-md-4 d-grid gap-2 col-6 mx-auto">
-                  <button class="btn btn-warning btn-lg">
-                    <i class="fas fa-copy me-4"></i>Copy
+                  <button class="btn btn-warning btn-lg" onclick="copyButton()">
+                    <i class="fas fa-copy me-4" id="copyButtonIcon"></i><span id="copyButtonText">Copy</span>
                   </button>
                 </div>
             </div>         
@@ -85,7 +85,7 @@
 
         <div class="m-5 p-2">
             <div class="d-grid gap-2 col-4 mx-auto">
-                <button class="btn btn-danger btn-lg" type="button">
+                <button class="btn btn-danger btn-lg" type="button" id="generateButton" onclick="defaultPassword()">
                     <i class="fas fa-sync-alt me-4"></i>
                     Generate Password
                 </button>
