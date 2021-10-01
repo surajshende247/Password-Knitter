@@ -25,7 +25,9 @@ open index.html
 
 ## Contributing
 
-[![Open Issues](https://badgen.net/github/open-issues/surajshende247/Password-Knitter?color=red)](https://github.com/surajshende247/Password-Knitter/issues) [![Open PR](https://badgen.net/github/open-prs/surajshende247/Password-Knitter?color=yellow)](https://github.com/surajshende247/Password-Knitter/pulls) [![Closed PR](https://badgen.net/github/closed-prs/surajshende247/Password-Knitter?color=black)](https://github.com/surajshende247/Password-Knitter/pulls) [![Merged PR](https://badgen.net/github/merged-prs/surajshende247/Password-Knitter?color=green)](https://github.com/surajshende247/Password-Knitter/pulls) 
+
+
+[![Open Issues](https://badgen.net/github/open-issues/surajshende247/Password-Knitter?color=red)](https://github.com/surajshende247/Password-Knitter/issues) [![Closed Issues](https://badgen.net/github/closed-issues/surajshende247/Password-Knitter?color=green)](https://github.com/surajshende247/Password-Knitter/issues) [![Open PR](https://badgen.net/github/open-prs/surajshende247/Password-Knitter?color=yellow)](https://github.com/surajshende247/Password-Knitter/pulls) [![Closed PR](https://badgen.net/github/closed-prs/surajshende247/Password-Knitter?color=black)](https://github.com/surajshende247/Password-Knitter/pulls) [![Merged PR](https://badgen.net/github/merged-prs/surajshende247/Password-Knitter?color=green)](https://github.com/surajshende247/Password-Knitter/pulls) 
 
 - Fork/clone this repository.
 
