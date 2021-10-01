@@ -2,7 +2,11 @@
   font-family: AbelRegular;
   src: url(../fonts/Abel-Regular.ttf);
 }
-
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 h1 {
   font-family: AbelRegular;
 }
@@ -13,4 +17,41 @@ body {
 
 .custom-bg {
   background-color: #7952b3;
+}
+.btn-group {
+  outline:none;
+}
+
+.copyBtn{
+  outline:none;
+}
+html::-webkit-scrollbar {
+  width: 0px; /* For Chrome, Safari, and Opera */
+}
+@media screen and (max-width: 700px) {
+  .container, footer{
+    overflow-x: hidden;
+  }
+  .heading{
+    font-size:2.5rem;
+  }
+  .copyBtn{
+    padding-top:10px;
+    display: flex !important;;
+    text-align: center;
+    align-items: center!important;
+    justify-content: center;
+    height:80px;
+    width:100px;
+  }
+  .copyButtonText{
+    font-size:1.1rem;
+  }
+  .btn-group{
+    display: flex !important;
+    align-items: center;
+    place-content: center;
+    font-size:1.2rem;
+    }
+
 }
