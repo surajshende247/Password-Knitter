@@ -8,7 +8,6 @@ Click [here](https://password-knitter-topmk.ondigitalocean.app/) to view the liv
   <img src="https://github.com/surajshende247/Password-Knitter/blob/master/screenshots/screenshot1.png" width="80%" title="Password Knitter">
 </p>
 
-
 ## Usage
 
 Clone [this](https://github.com/surajshende247/Password-Knitter) repository and open `index.html` in your favourite browser.
@@ -21,11 +20,7 @@ open index.html
 
 ```
 
-
-
 ## Contributing
-
-
 
 [![Open Issues](https://badgen.net/github/open-issues/surajshende247/Password-Knitter?color=red)](https://github.com/surajshende247/Password-Knitter/issues) [![Closed Issues](https://badgen.net/github/closed-issues/surajshende247/Password-Knitter?color=green)](https://github.com/surajshende247/Password-Knitter/issues) [![Open PR](https://badgen.net/github/open-prs/surajshende247/Password-Knitter?color=yellow)](https://github.com/surajshende247/Password-Knitter/pulls) [![Closed PR](https://badgen.net/github/closed-prs/surajshende247/Password-Knitter?color=black)](https://github.com/surajshende247/Password-Knitter/pulls) [![Merged PR](https://badgen.net/github/merged-prs/surajshende247/Password-Knitter?color=green)](https://github.com/surajshende247/Password-Knitter/pulls) 
 
