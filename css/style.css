@@ -42,7 +42,7 @@ html::-webkit-scrollbar {
     align-items: center!important;
     justify-content: center;
     height:80px;
-    width:100px;
+    width:250px;
   }
   .copyButtonText{
     font-size:1.1rem;
@@ -53,5 +53,9 @@ html::-webkit-scrollbar {
     place-content: center;
     font-size:1.2rem;
     }
-
+    .btn-group-lg>.btn, .btn-lg {
+      padding: .5rem 1rem;
+      font-size: 1.21rem;
+      border-radius: .3rem;
+  }
 }
