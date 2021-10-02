@@ -23,3 +23,9 @@ function copyButton(){
     document.getElementById("copyButtonIcon").className = "fas fa-check me-4"
     document.getElementById("copyButtonText").innerHTML = "Copied!"
 }
+
+function Darkmode() {
+    var element = document.body;
+    element.classList.toggle("dark-mode");
+    element.classList.toggle("dark-mode-nav");
+  }
