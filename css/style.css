@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
 @font-face {
   font-family: AbelRegular;
   src: url(../fonts/Abel-Regular.ttf);
 }
 *{
+  font-family: Oswald;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
